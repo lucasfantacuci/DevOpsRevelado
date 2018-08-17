@@ -7,7 +7,7 @@
 ## Teoria das restrições
 
 
-Em uma organização incluindo a sua que entrega qualquer tipo de software, existe sempre um conflito em andamento entre sua TI e o seu negócio. Rápidamente respondendo as necessidades de negócio enquanto continuamente assegurando ambiente de produção estável e previsível é uma troca continuamente enfrentada pela sua TI. Assumindo que você ja está completamente consciente que não existe risco na release de produção, em um sistema como o seu você não pode ser rápido o suficiente se você quer assegurar uma release em produção de baixo risco. E você no pode assegurar um release em produção de baixo risco se você quer rapidamente realizar seu código em seu ambiente de produção.
+Em uma organização, incluindo a sua, que entrega qualquer tipo de software, existe sempre um conflito em andamento entre sua TI e o seu negócio. Rápidamente respondendo as necessidades de negócio enquanto continuamente assegurando ambiente de produção estável e previsível é uma troca continuamente enfrentada pela sua TI. Assumindo que você já está completamente consciente que não existe risco na liberação em produção, em um sistema grande e complexo como o seu, você não pode ser rápido o suficiente se você quer assegurar uma entrega em produção de baixo risco. E você no pode assegurar uma entrega em produção de baixo risco se você quer rapidamente realizar seu código em seu ambiente de produção.
 
 
 E você lida com este conflito quando : 
