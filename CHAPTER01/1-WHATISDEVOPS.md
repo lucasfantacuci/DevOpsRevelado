@@ -22,4 +22,4 @@ Embora Scrum, Lean, ITL, IDEAL e Six Sigma DMAIC possam servir como eficientes h
 Muitas práticas e principios DevOps tem sido derivados do movimento Lean após elas terem sido adaptadas, experimentadas, validadas e refinadas para o desenvolvimento de software, entrega de software e operações. Mais que isto, DevOps emprestou e adaptou muitas tecnicas e filosofias do movimento de Delivery Continuo, Melhoria Toyota Kata, Teoria das Restrições, Manifesto ágil e Infraestrutura Ágil.
 
 
-[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/1-1-LEANMOVIMENT.md)
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-1-LEANMOVEMENT.md)
