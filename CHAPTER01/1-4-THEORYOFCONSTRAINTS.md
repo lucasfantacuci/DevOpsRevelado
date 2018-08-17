@@ -1,3 +1,9 @@
+[Sumário](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
+
+
+[Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-3-TOYOTAIMPROVEMENTKATA.md)
+
+
 ## Teoria das restrições
 
 
@@ -11,3 +17,6 @@ E você lida com este conflito quando :
 - Você reduz o seu *batch size* (a quantidade do seu trabalho em progresso) dado à cada time.
 - Você reduz o seu *lead time* (tempo requerido para converter ideias e requisitos em beneficios e funcionalidades rodando em ambiente de produção).
 - Você constrói cíclos de feedbacks rápidos, confiantes e contínuos para assegurar prontidão para deployment.
+
+
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-5-AGILEMANIFESTO.md)
