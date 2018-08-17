@@ -15,7 +15,7 @@ O movimento Lean pode ser sumarizado em setes princípios:
 - Você amplifica o aprendizado e você abraça o saber científico.
 - Você empodera seu time, você lidera com humildade e você respeita cada indivíduo.
 - Você elemina desperdícios (ferramentas, sistemas, e mais importante seu tempo que você gasta em atividades improdutivas).
-- Você devide o mais tardar possível (Você apenas toma decisões nos momentos necessários).
+- Você decide o mais tardar possível (Você apenas toma decisões nos momentos necessários).
 
 
 [Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-2-CONTINUOUSDELIVERYMOVEMENT.md)
