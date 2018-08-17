@@ -41,4 +41,12 @@ metodologias e frameworks exceto Scrum foram introduzidos para especificamente
 resolver os problemas e servir a industria de software.
 
 
+Muitas práticas e principios DevOps tem sido derivados do movimento Lean após elas
+terem sido adaptadas, experimentadas, validadas e refinadas para o desenvolvimento 
+de software, entrega de software e operações. Mais que isto, DevOps emprestou
+e adaptou muitas tecnicas e filosofias do movimento de Delivery Continuo, 
+Melhoria Toyota Kata, Teoria das Restrições, Manifesto ágil e Infraestrutura Ágil.
+
+
+
 [Próximo]()
