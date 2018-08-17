@@ -10,3 +10,5 @@ O link do material em inglês está disponível em : https://storage.googleapis.
 
 
 ## Sumário
+
+- [O que é Devops?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/1-WHATISDEVOPS.md)
