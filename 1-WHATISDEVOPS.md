@@ -22,44 +22,4 @@ Embora Scrum, Lean, ITL, IDEAL e Six Sigma DMAIC possam servir como eficientes h
 Muitas práticas e principios DevOps tem sido derivados do movimento Lean após elas terem sido adaptadas, experimentadas, validadas e refinadas para o desenvolvimento de software, entrega de software e operações. Mais que isto, DevOps emprestou e adaptou muitas tecnicas e filosofias do movimento de Delivery Continuo, Melhoria Toyota Kata, Teoria das Restrições, Manifesto ágil e Infraestrutura Ágil.
 
 
-
-## Manifesto Ágil
-
-
-Agile Manifesto:
-With DevOps you adhere to the cornerstones
-defined by the agile manifesto:
-• You respect individuals and interactions over
-processes and tools.
-• You respect working software over comprehensive
-documentation.
-• You respect customer collaboration over contract
-terms and negotiation.
-• You respect responding to change over following
-a plan. 
-
-
-## Agile Infrastructure:
-
-
-Our organizations large and small including probably
-yours are relying on hybrid cloud infrastructures,
-combining public and private cloud with dedicated
-servers. Therefore, you collect the rewards of
-colocation security in combination with the flexibility
-and scalability of public cloud.
-Here’s some of major drivers why an agile infrastructure
-is beneficial for DevOps:
-• You pay for what you use with transparent and
-simple pricing.
-• You can quickly provision and de-provision your
-test and production environments from your code
-base (IaC - Infrastructure as Code).
-• You have architectural flexibility.
-• You can easily expand other geographies.
-• You probably have better security
-• You stay compliant without audits and additional
-costs. 
-
-
 [Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/1-1-LEANMOVIMENT.md)
