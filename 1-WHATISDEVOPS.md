@@ -1,6 +1,8 @@
 [Voltar](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
+
 # O que  DevOps?
+
 
 Devops é um processo para desenvolver, entregar e operar software. 
 Tão simples quanto isso, você realmente não deveria subestimar o 
@@ -47,9 +49,12 @@ de software, entrega de software e operações. Mais que isto, DevOps emprestou
 e adaptou muitas tecnicas e filosofias do movimento de Delivery Continuo, 
 Melhoria Toyota Kata, Teoria das Restrições, Manifesto ágil e Infraestrutura Ágil.
 
+
 ## Movimento Lean
 
+
 O movimento Lean pode ser sumarizado em setes princípios:
+
 
 - Você vê o todo e você cria valor para o cliente utilizando-se de "Systems Thinking".
 - Você constrói com qualidade, você cria o fluxo, e o puxa (ao invés de empurrá-lo).
@@ -62,23 +67,46 @@ e funcionalidades em sistemas em produção).
 gasta em atividades improdutivas).
 - Você devide o mais tardar possível (Você apenas toma decisões nos momentos necessários).
 
+
 ## Movimento de Entrega Contínua
+
 
 Você habilita a entrega contínua através do pipeline de deploy. O Pipeline de deploy possui três
 missões importante: Visibilidade, Feedback, e Deploy contínuo.
+
 
 - Visibilidade - Você faz com que todos os aspectos do sistema de entrega
 incluindo building, deploying, testes e releasing sejam visíveis para 
 todos os membros do seu time e outros times, pois assim você promove colaboração
 em seu time, e você oferece transparência para seus clientes e stakeholders.
 
+
 - Feedback - Você e seu time aprendem sobre os problemas tão cedo quanto eles ocorram,
 com isso vocês são capazes de corrigí-los rapidamente antes que vocês coloquem outro
 block sobre um bloco que já est em colapso.
 
+
 - Deploy contínuo - Você faz o deploy e a release de qualquer versão do software para 
 qualquer ambiente incluindo ambientes de teste e produção através de um processo
 totalmente automatizado.
+
+
+## Melhoria Toyota Kata
+
+
+Você usa a melhoria Toyota Kata como uma rotina para mover-se de uma
+situação atual para mover-se de uma situação corrente para uma nova situação
+de uma maneira criativa, direta e significativa. Este processo é baseado em um model
+de quatro partes: 
+
+
+- Em sua consideração de uma grande visão ou uma direção aperfeiçoada...
+- Você compreende as condições correntes.
+- Então você define as proximas condições alvo.
+- E por ultimo, você continuamente e iterativamente tenta se mover até a condição alvo. Durante este caminho você descobre obstáculos que necessitam ser trabalhados e você os resolve. 
+
+
+Em contraste com outras abordagens de melhoria onde você tenta adivinhar o caminho e foca na implementação, com a melhoria Toyota Kata você aprende e constrói nas descobertas que ocorrem durante o caminho. Você e seus times usam a melhoria Toyota Kata para aprender assim como você se esforça para alcançar uma condição alvo, e vocês se adaptam baseado em que vocês estão aprendendo.
 
 
 [Próximo]()
