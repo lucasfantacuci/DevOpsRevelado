@@ -8,7 +8,7 @@ O intuito deste repositório é fornecer uma versão em português deste materia
 
 O link do material em inglês está disponível em : https://storage.googleapis.com/devops-academy/DevOps_Revealed_by_International_DevOps_Certification_Academy.pdf
 
-## Contribuição e dúvidas
+## Contribuições e dúvidas
 
 
 Caso você tenha alguma dúvida sobre o conteúdo disponibilizado, queira discutir sobre determinado assunto relacionado a DevOps, ou acha que uma frase não fico legal traduzida, crie uma issue neste repositório, podemos melhorar o conteúdo juntos.
