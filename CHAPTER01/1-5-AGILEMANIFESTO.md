@@ -7,17 +7,13 @@
 ## Manifesto Ágil
 
 
-Agile Manifesto:
-With DevOps you adhere to the cornerstones
-defined by the agile manifesto:
-• You respect individuals and interactions over
-processes and tools.
-• You respect working software over comprehensive
-documentation.
-• You respect customer collaboration over contract
-terms and negotiation.
-• You respect responding to change over following
-a plan. 
+Com DevOps você adere aos alicerces definidos pelo manifesto ágil
+
+
+- Você respeita indivíduos e interações acima de processos e ferramentas.
+- Você respeita software funcionando acima de documentação abrangente.
+- Você respeita colaboração do cliente acima de termos de contrato e negociação.
+- Você respeita responder a mudanças acima de seguir um plano. 
 
 
 [Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-6-AGILEINFRASTRUCTURE.md)
