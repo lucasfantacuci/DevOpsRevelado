@@ -29,4 +29,16 @@ chegar ao final deste livro, você não poderá ajudar, mas irá ver o quão sec
 esta definição é.
  
 
+A melhor maneira para definir DevOps é assemelhá-lo com desenvolvimento iterativo 
+e ágil de software e com frameworks de melhoria de processos tais como Scrum, Lean,
+ITIL, IDEAL e Six Sigma DMAIC.
+
+
+Embora Scrum, Lean, ITL, IDEAL e Six Sigma DMAIC possam servir como eficientes 
+habilitadores para DevOps, DevOps não é para ser visto como um melhorado e combinado
+super conjunto destas metodologias e técnicas. A simples razão é que nenhuma destas
+metodologias e frameworks exceto Scrum foram introduzidos para especificamente
+resolver os problemas e servir a industria de software.
+
+
 [Próximo]()
