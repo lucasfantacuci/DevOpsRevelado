@@ -82,4 +82,63 @@ E você lida com este conflito quando :
 - Você constrói cíclos de feedbacks rápidos, confiantes e contínuos para assegurar prontidão para deployment.
 
 
+## Manifesto Ágil
+
+
+Agile Manifesto:
+With DevOps you adhere to the cornerstones
+defined by the agile manifesto:
+• You respect individuals and interactions over
+processes and tools.
+• You respect working software over comprehensive
+documentation.
+• You respect customer collaboration over contract
+terms and negotiation.
+• You respect responding to change over following
+a plan. 
+
+
+## Agile Infrastructure:
+
+
+Our organizations large and small including probably
+yours are relying on hybrid cloud infrastructures,
+combining public and private cloud with dedicated
+servers. Therefore, you collect the rewards of
+colocation security in combination with the flexibility
+and scalability of public cloud.
+Here’s some of major drivers why an agile infrastructure
+is beneficial for DevOps:
+• You pay for what you use with transparent and
+simple pricing.
+• You can quickly provision and de-provision your
+test and production environments from your code
+base (IaC - Infrastructure as Code).
+• You have architectural flexibility.
+• You can easily expand other geographies.
+• You probably have better security
+• You stay compliant without audits and additional
+costs. 
+
+CONCLUSION
+In this section we explained you what DevOps is and
+what it isn’t. For you we have also covered the major
+movements and principles which DevOps was
+derived from.
+A small caveat: Like many agile practitioners have
+been unfortunately doing in their agile practices
+since years, you shouldn’t stick to any stone-grained
+definition of DevOps to dictate how your particular
+organization, your product, your service and most
+importantly your team should use DevOps. There is
+no one-size-fits-all solution. Neither in agile nor in
+DevOps.
+Never forget that it is all about learning, experimentation
+and adaptation. As DevOps will do a lot of good
+work for us, it is our role biggest duty as human
+minds to identify our correct version and tone of
+DevOps. This is what each and every successful
+DevOps organization including Google, Amazon,
+Facebook, Netflix and Apple have been doing
+
 [Próximo]()
