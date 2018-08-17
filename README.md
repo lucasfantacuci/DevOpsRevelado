@@ -11,7 +11,7 @@ O link do material em inglês está disponível em : https://storage.googleapis.
 ## Contribuição e dúvidas
 
 
-Caso você tenha alguma dúvida sobre o conteúdo disponibilizado, queira discutir sobre determinado assunto sobre DevOps, ou acha que uma frase não fico legal traduzida, crie uma issue neste repositório, podemos melhorar o conteúdo juntos.
+Caso você tenha alguma dúvida sobre o conteúdo disponibilizado, queira discutir sobre determinado assunto relacionado a DevOps, ou acha que uma frase não fico legal traduzida, crie uma issue neste repositório, podemos melhorar o conteúdo juntos.
 
 
 Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor dada frase, crie um pull request, que eu terei um enorme prazer em aceitá-lo.
