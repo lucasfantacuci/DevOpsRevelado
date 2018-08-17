@@ -13,7 +13,7 @@ Algumas definições de DevOps dirigidas comercialmente acoplam altamente DevOps
 Outra definição equivocada, porém, continua uma melhor variante para definir DevOps, é ver DevOps como uma intersecção de trabalho e pessoas em uma organização de TI no qual traz desenvolvedores, testadores, e operadores de *software* em produção para trabalharem juntos. Tendo dito isto, uma vez que você chegar ao final deste livro, você não poderá ajudar, mas irá ver o quão seca esta definição é.
  
 
-A melhor maneira para definir DevOps é assemelhá-lo com desenvolvimento iterativo e ágil de *software* e com *frameworks* de melhoria de processos tais como Scrum, Lean, ITIL, IDEAL e Six Sigma DMAIC.
+A melhor maneira para definir DevOps é assemelhá-lo com desenvolvimento iterativo e ágil de *software* e também com *frameworks* de melhoria de processos tais como Scrum, Lean, ITIL, IDEAL e Six Sigma DMAIC.
 
 
 Embora Scrum, Lean, ITL, IDEAL e Six Sigma DMAIC possam servir como eficientes habilitadores para DevOps, DevOps não é para ser visto como um melhorado e combinado super conjunto destas metodologias e técnicas. A simples razão é que nenhuma destas metodologias e frameworks exceto Scrum foram introduzidos para especificamente resolver os problemas e servir a indústria de *software*.
