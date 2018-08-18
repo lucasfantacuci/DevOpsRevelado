@@ -4,18 +4,13 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-3-YOURBUSINESSEARNSFROMMOSTFRAGILESYSTEMS.md)
 
 
-As your IT organization constantly breaks promises
-and frustrates its stakeholders, your stakeholders
-become more demanding to compensate the past.
-You and your leaders have often say nothing, but
-“why not” unless there is a better job offer lined up.
-Then your software development and delivery
-organizations are assigned a larger challenge than
-usual. As your critical systems and IT architecture are
-not even in a close proximity to cover these 
-requirements in given “urgent” timelines, you set out
-designing your new workarounds on the top of your
-existing set of workarounds. 
+## 2.4 - Se você quebra promessas você promete mais
+
+
+Como sua organização de TI constantemente quebra promessas e frustra seus stakeholders, seus stakeholders se tornam mais exigentes para compensar o passado. Você e seus líderes as vezes não dizem nada, mas "porque não" ao menos que exista uma oferta de trabalho melhor alinhada. 
+
+
+Então é atribuído ao desenvolvimento de software e a entrega da sua organização desafios maiores que os usuais. Como seu sistema crítico e sua arquitetura de TI não estão nem pertos de cobrir estes requisitos dados em tempos "urgentes", você começa a realizar o design de suas novas soluções alternativas no topo do seu conjunto de soluções alternativas.
 
 
 [Próximo]()
