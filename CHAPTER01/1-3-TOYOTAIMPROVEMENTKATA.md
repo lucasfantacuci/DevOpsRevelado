@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-2-CONTINUOUSDELIVERYMOVEMENT.md)
 
 
-## Melhoria Toyota Kata
+## 1.3 - Melhoria Toyota Kata
 
 
 Você usa a melhoria Toyota Kata como uma rotina para mover-se de uma situação atual para uma nova situação de uma maneira criativa, direta e significativa. Este processo é baseado em um modelo de quatro partes: 
