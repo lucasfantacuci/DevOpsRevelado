@@ -20,7 +20,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 ## Sumário
 
 
-### Capítulo 01 - O que é DevOps?
+### Capítulo 01
 
 
 - [1 - O que é Devops?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-WHATISDEVOPS.md)
@@ -32,4 +32,8 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [1.6 - Infraestrutura Ágil](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-6-AGILEINFRASTRUCTURE.md)
 - [1.7 - Conclusão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-7-CONCLUSION.md)
 
-### Capítulo 02 - Quais são seus problemas em TI sem DevOps?
+
+### Capítulo 02 
+
+
+- [2 - Quais são seus problemas em TI sem DevOps?]()
