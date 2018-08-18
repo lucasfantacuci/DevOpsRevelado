@@ -1,21 +1,12 @@
 [Sumário](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
 
-[Anterior]()
+[Anterior]https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-2-NOWYOUAREINTECHNICALDEBT.md)
 
 
-A non-surprising but concerning fact about your
-business is that your most critical and revenuegenerating
-systems are most prone to errors,
-crashes and downtimes.
-These systems are usually in the center of your
-business and you have yet to participate a meeting
-that they are not somehow part of discussions. They
-are the most critical systems impacted by almost all
-projects. Due to the their severity in your business,
-they deserve continuous work, urgent changes,
-unplanned fixes, and yet these systems are never
-tired of producing Priority-1 incidents. 
+## 2.3 - Seu negócio lucra do sistema mais frágil
 
 
-[Próximo]()
+Um fato que não é surpresa mas é preocupante é que seu negócio é que seu sistema mais crítico e que mais gera receita está mais apto a erros, quebras e tempos de indisponibilidade. Estes sistemas são normalmente o centro do seu negócio e você ainda tem que participar de reuniões que eles não são de alguma maneira parte da discussão. Eles são os sistemas mais críticos impactados por quase todos os projetos. Devido severidade deles em seus negócios, eles merecem trabalho contínuo, mudanças urgentes, correções não planejadas, e ainda estes sistemas nunca se cansam de produzir incidentes de maior prioridade.
+
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-4-YOUPROMISSEBIGGERIFYOUBREAKONE.md)
