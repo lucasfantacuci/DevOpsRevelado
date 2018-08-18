@@ -18,4 +18,4 @@ Você aos poucos vai se tornando impaciente porque você necessita de respostas 
 Você não poderia parar e mandar um outro email para lembrar a sua requisição. Desta vez você coloca o chefe dele em cópia e você pensa que deveria ter feito isto quando você mandou sua solicitação pela primeira vez. Nem segundos se passaram ainda e duas notificações aparecem na sua tela. O seu contato na outra equipe irá estar na oficina do projeto "Horizon 2400" até o final de semana. E o chefe dele está doente em casa hoje.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-6-CONCLUSION.md)
