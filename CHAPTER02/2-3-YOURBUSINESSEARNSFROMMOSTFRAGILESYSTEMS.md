@@ -1,7 +1,7 @@
 [Sumário](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
 
-[Anterior]https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-2-NOWYOUAREINTECHNICALDEBT.md)
+[Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-2-NOWYOUAREINTECHNICALDEBT.md)
 
 
 ## 2.3 - Seu negócio lucra do sistema mais frágil
