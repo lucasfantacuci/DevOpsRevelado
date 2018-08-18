@@ -4,11 +4,13 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-7-CONCLUSION.md)
 
 
-In your world of IT without DevOps, development
-and operations teams do usually conflict. End-to-end
-quality assurance of required client features and
-benefits first start after development team begins to
-work on a completely different project. Information
+## 2 - Quais são os seus problemas em TI sem DevOps?
+
+
+Em seu mundo de TI sem DevOps, times de desevolvimento e operacional normalmente conflitam. Garantia de qualidade de ponta a ponta das funcionalidades requeridas pelo cliente se iniciam após a equipe de desenvolvimento começar a trabalhar em um outro projeto totalmente diferente. 
+
+
+Information
 security and production readiness audits are
 conducted the day before the planned production
 roll-out. Solving software problems at this critical
