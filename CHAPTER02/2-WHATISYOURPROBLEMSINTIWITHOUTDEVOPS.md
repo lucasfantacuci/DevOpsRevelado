@@ -19,21 +19,7 @@ Apesar de longos *lead times* para conseguir qualquer trabalho realizado, não e
 Finalmente o grande dia chega. Após uma problemática e caótia implantação em produção que causou um significante inatividade no seu negócio , você se pergunta se sua implantação quebrou algo em funcionalidades em produção já existentes. Você começa a pensar que a falta de evidencias claras e tangíveis sobre o que realmente aconteceu e o que tem tido real impacto em seu sistema em produção. E ainda antes da celebração de estar em produção começar nos corredores da sua grande sala de TI. Também é tempo para você tomar algo, e se recuperar mentalmente das noites cheias de pensamentos e de insônias que você deixou para trás. O que você quebrou noite passada em produção de qualquer jeito será o problema de outro. Este não é um bom negócio. 
 
 
-Tendo tido isto, você deve estar se perguntando agora,
-Having said that you must be now wondering how it’s
-possible at all that these tough projects can finish in
-one or another way although they once have been
-really in an ugly and desperate shape. The answer
-lies in The Infinite Monkey Theorem. In a nutshell,
-the infinite monkey theorem states that a monkey 
-hitting keys at random on a typewriter keyboard for
-an infinite amount of time will surely type a given
-text, such as the complete works of William
-Shakespeare. This is no joke.
-Similar to this, beyond any predictability about when
-the work can finish, provided that your IT team
-sufficiently delays and gains time for a given project,
-it will surely deliver the project. 
+Tendo tido isto, você deve estar se perguntando agora, como isso é possivel que todos estes projetos difíceis podem terminar de uma ou outra maneira apesar deles terem sido realmente horríveis e em formato desesperador. A resposta cai no teorema do macaco infinito. Em resumo, o teorema do macaco infinito diz que, dado um macaco pressionando teclas aleatoriamente em um teclado por um período de tempo infinito irá certamente digitar um dado texto, como por exemplo o trabalho completo de Willian Shakespeare. Isto não é uma piada. Similar a isso, além de qualquer previsibilade sobre quando o trabalho poderá ser terminado, desde que sua equipe de TI atrase e ganhe tempo para um determinado projeto, ele certamente entregará o projeto.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-1-CHRONICCONFLICTBETWEENDEVELOPMENTANDOPERATIONAL.md)
