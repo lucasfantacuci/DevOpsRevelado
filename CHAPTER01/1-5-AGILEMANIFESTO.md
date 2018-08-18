@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-4-THEORYOFCONSTRAINTS.md)
 
 
-## Manifesto Ágil
+## 1.5 - Manifesto Ágil
 
 
 Com DevOps você adere aos alicerces definidos pelo manifesto ágil
