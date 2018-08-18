@@ -3,7 +3,7 @@
 
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-WHATISDEVOPS.md)
 
-## Movimento Lean
+## 1.1 - Movimento Lean
 
 
 O movimento Lean pode ser sumarizado em setes princípios:
