@@ -4,24 +4,19 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-5-YOUHAVENOMOREFUNATWORK.md)
 
 
-In this chapter we explained the challenges most of
-businesses and IT professionals face. The downward
-spirals and vicious cycles almost every business and
-every professional live with.
-Gartner estimates that companies worldwide waste
-yearly about 600 billion USD for non-budgeted and
-non-scheduled IT maintenance work to keep
-revenue-generating IT systems up and running. Just
-to express this number with digits to see how it looks
-like: $600,000,000,000.-
-As it might have been clear for you until this point,
-this level of waste in a highly cognitive profession
-such as information technology is not trivial to
-comprehend.
-This is a good challenge to tackle with. DevOps have
-some answers for some companies and may be for
-your company too. Of course, if your company is
-ready to experiment, learn and adapt.
+## 2.6 - Conclusão
+
+
+Neste capítulo nos explicados a maioria dos desafios que o seu negócio e os seus profissionais de TI encaram. As espirais voltadas para baixo e o ciclo vicioso que quase todos profissionais e todos os negócios enfrentam.
+
+
+Gartner estima que companhias do mundo todo gastam cerca de $600 bilhões de doláres para manutenções de TI não previstas e não orçadas para manter seu sistema que gera renda funcionando. Apenas para expressar este número com dígitos para ver como isto se parece: $600.000.000.000,00. 
+
+
+Como pode ter sido claro para você até este ponto, este nível de gasto em uma profissão altamente cognitiva como tecnologia da informação não é trivial para compreender.
+
+
+Este é um bom desafio para atacar. DevOps tem algumas respostas para algumas companhias e talvez para a sua companhia também. Claro, se a sua companhia está pronta para experimentar, aprender e adaptar.
 
 
 [Próximo]()
