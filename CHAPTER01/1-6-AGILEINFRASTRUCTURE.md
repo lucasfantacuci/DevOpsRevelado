@@ -4,27 +4,21 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-5-AGILEMANIFESTO.md)
 
 
-## Agile Infrastructure:
+## 1.6 - Infraestrutura Ágil
 
 
-Our organizations large and small including probably
-yours are relying on hybrid cloud infrastructures,
-combining public and private cloud with dedicated
-servers. Therefore, you collect the rewards of
-colocation security in combination with the flexibility
-and scalability of public cloud.
-Here’s some of major drivers why an agile infrastructure
-is beneficial for DevOps:
-• You pay for what you use with transparent and
-simple pricing.
-• You can quickly provision and de-provision your
-test and production environments from your code
-base (IaC - Infrastructure as Code).
-• You have architectural flexibility.
-• You can easily expand other geographies.
-• You probably have better security
-• You stay compliant without audits and additional
-costs. 
+Nossas organizações grandes e pequenas, incluindo provavelmente a sua estão confiando em infraestruturas em nuvem hibridas, combinando nuvems publicas e privadas com servidores dedicados. Portanto, você colhe as recompensas de colocação de segurança em combinação com a flexibilidade e escalabilidade de uma nuvem publica.
+
+
+Aqui está algumas das maiores diretivas de o porque uma infraestrutura ágil é benéfica para seu DevOps
+
+
+- Você paga por aquilo que você usa com sistema de precificação simples e transparente.
+- Você pode rapidamente provisionar e deprovisionar seus ambientes de teste e produção apartir da sua base de código (IaC - Infrasctructure as Code).
+- Você possui flexibilidade arquitetural.
+- Você pode facilmente expandir para outras geografias.
+- Você provavelmente tem uma melhor segurança.
+- Você se mantém nas conformidades sem auditorias e custos adicionais.
 
 
 [Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-7-CONCLUSION.md)
