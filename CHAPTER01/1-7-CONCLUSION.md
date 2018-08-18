@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-6-AGILEINFRASTRUCTURE.md)
 
 
-## Conclusão
+## 1.7 - Conclusão
 
 Nesta seção nos explicamos para você o que DevOps é e o que não é. Para você nós também cobrimos os maiores movimentos e principios dos quais o DevOps se derivou.
 
