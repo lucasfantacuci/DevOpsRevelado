@@ -17,4 +17,4 @@ Entre muitas outras responsabilidades chave, aqui existem as duas maiores missõ
 Dado que sua organização de TI é estruturada desta maneira, suas equipes de desenvolvimento e de operações possuem missões e motivações conflitentes. Este conflito reduz produtividade, qualidade de serviço, satisfação do cliente e resultados do seu departamento de TI e finalmente a performance geral do seu negócio.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-2-NOWYOUAREINTECHNICALDEBT.md)
