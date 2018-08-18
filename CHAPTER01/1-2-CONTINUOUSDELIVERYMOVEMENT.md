@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-1-LEANMOVEMENT.md)
 
 
-## Movimento de Entrega Contínua
+## 1.2 - Movimento de Entrega Contínua
 
 
 Você habilita a entrega contínua através do *pipeline* de *deploy*. O *Pipeline* de *deploy* possui três importantes missões: Visibilidade, *Feedback*, e *Deploy* contínuo.
