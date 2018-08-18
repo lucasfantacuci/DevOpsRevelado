@@ -36,4 +36,4 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 ### Capítulo 02 
 
 
-- [2 - Quais são seus problemas em TI sem DevOps?]()
+- [2 - Quais são seus problemas em TI sem DevOps?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-WHATISYOURPROBLEMSINTIWITHOUTDEVOPS.md)
