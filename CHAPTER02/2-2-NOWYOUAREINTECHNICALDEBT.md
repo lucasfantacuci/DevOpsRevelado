@@ -1,7 +1,7 @@
 [Sumário](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
 
-[Anterior]()
+[Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-1-CHRONICCONFLICTBETWEENDEVELOPMENTANDOPERATIONAL.md)
 
 
 Continuous firefighting, workarounds and unplanned
@@ -26,4 +26,4 @@ cards on house of cards. And it is a matter of time
 before they all collapse. You already know this.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-3-YOURBUSINESSEARNSFROMMOSTFRAGILESYSTEMS.md)
