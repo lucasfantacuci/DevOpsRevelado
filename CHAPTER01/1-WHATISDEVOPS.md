@@ -1,7 +1,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
 
-# O que  DevOps?
+# 1 - O que  DevOps?
 
 
 DevOps é um processo para desenvolver, entregar e operar *software*. Tão simples quanto isso, você não deveria subestimar o entendimento do que DevOps realmente é. Existem muitas definições por aí em cima de prateleiras e na Internet sobre DevOps que são, ou de interesse próprio de quem os propõe, ou no máximo, incompletas e confusas.
