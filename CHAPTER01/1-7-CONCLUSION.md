@@ -4,26 +4,15 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER01/1-6-AGILEINFRASTRUCTURE.md)
 
 
-CONCLUSION
-In this section we explained you what DevOps is and
-what it isn’t. For you we have also covered the major
-movements and principles which DevOps was
-derived from.
-A small caveat: Like many agile practitioners have
-been unfortunately doing in their agile practices
-since years, you shouldn’t stick to any stone-grained
-definition of DevOps to dictate how your particular
-organization, your product, your service and most
-importantly your team should use DevOps. There is
-no one-size-fits-all solution. Neither in agile nor in
-DevOps.
-Never forget that it is all about learning, experimentation
-and adaptation. As DevOps will do a lot of good
-work for us, it is our role biggest duty as human
-minds to identify our correct version and tone of
-DevOps. This is what each and every successful
-DevOps organization including Google, Amazon,
-Facebook, Netflix and Apple have been doing
+## Conclusão
+
+Nesta seção nos explicamos para você o que DevOps é e o que não é. Para você nós também cobrimos os maiores movimentos e principios dos quais o DevOps se derivou.
+
+
+Uma pequena ressalva: como muitos paticantes ágil tem sido infelizes na realização de suas práticas ágeis há anos, você não deveria se prender a nenhuma pequena definição de DevOps para ditar como sua organização, seu produto, seu serviço e mais importante seu time deve usar DevOps. Não existe uma solução que se encaixe em todos os contextos. Nem em ágil, nem em DevOps.
+
+
+Nunca se esqueça que tudo isto é sobre aprender, experimentar, e adotar. Como DevOps irá fazer um monte de bom trabalho para nós, é o seu maior papel como uma mente humana identificar qual é a nossa versão e tom correto de DevOps. Isto é o que cada e toda organização DevOps têm estado fazendo, incluindo Google, Amazon, Facebook, Netflix e Apple.
 
 
 [Próximo]()
