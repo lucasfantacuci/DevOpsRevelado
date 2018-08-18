@@ -11,10 +11,10 @@ O link do material em inglês está disponível em : https://storage.googleapis.
 ## Contribuições e dúvidas
 
 
-Caso você tenha alguma dúvida sobre o conteúdo disponibilizado, queira discutir sobre determinado assunto relacionado a DevOps, ou acha que uma frase não fico legal traduzida, crie uma issue neste repositório, podemos melhorar o conteúdo juntos.
+Caso você tenha alguma dúvida sobre o conteúdo disponibilizado, ou queira discutir sobre determinado assunto relacionado a DevOps, ou até mesmo acha que uma frase traduzida não fez tanto sentido, crie uma issue neste repositório, podemos melhorar o conteúdo juntos.
 
 
-Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor dada frase, crie um pull request, que eu terei um enorme prazer em aceitá-lo.
+Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor determinada frase, crie um pull request, que eu terei um enorme prazer em aceitá-lo.
 
 
 ## Sumário
