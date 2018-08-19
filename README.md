@@ -43,3 +43,17 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [2.4 - Se você quebra promessas você promete mais](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-4-YOUPROMISSEBIGGERIFYOUBREAKONE.md)
 - [2.5 - Você não tem mais diversão no seu trabalho](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-5-YOUHAVENOMOREFUNATWORK.md)
 - [2.6 - Conclusão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-6-CONCLUSION.md)
+
+
+
+### Capítulo 03
+
+
+- 3 Como DevOps resolve seus problemas em TI?
+- [3.1 - Você continuamente implanta]()
+- [3.2 - Você organiza seus times ao redor de sua missão]()
+- [3.3 - Você constrói sistemas para alcançar metas de negócio]()
+- [3.4 - Você cria com qualidade e monitoramento]()
+- [3.5 - Agradeça aos erros você aprende e ensina]()
+- [3.6 - Seus times escalam ainda melhor enquanto seu negócio cresce]()
+- [3.7 - Conclusão]()
