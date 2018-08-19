@@ -49,7 +49,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 ### Capítulo 03
 
 
-- 3 Como DevOps resolve seus problemas em TI?
+- 3 - Como DevOps resolve seus problemas em TI?
 - [3.1 - Você continuamente implanta]()
 - [3.2 - Você organiza seus times ao redor de sua missão]()
 - [3.3 - Você constrói sistemas para alcançar metas de negócio]()
