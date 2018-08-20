@@ -15,4 +15,4 @@ Com o modelo de times com projetos temporários, os membros do projeto nem tem p
 Com o modelo de times de longos termos, seus times de bom grado tem a propriedade do seu próprio trabalho, performance de TI e negócios são habilidatas pelas suas entregas. Eles estão totalmente cientes onde as suas contribuições ficam e quão importante eles são na grande missão da sua organização.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-3-YOUBUILDSYSTEMSTOACHIEVEBUSINESSGOALS.md)
