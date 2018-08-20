@@ -19,4 +19,4 @@ Toda integração do seu repositório de código automaticamente adapta, reestru
 Você cria na suas aplicações sistemas para análise e telemetria para continuamente monitorar e gravar eventos chave em seu *software* e em seu ambiente operacional. A métricas chave (tais como número de pedidos, numero de erros, tamanho das queries no banco de dados, entre muitos outros) são constantemente gravados e apresentados em tempo real, então  só uma questão de minutos, se não segundos antes que o seu time descubra um impacto negativo disparado por uma implantação. E isto é o porque ciclos de feedbacks rápidos so vitais para ter o seu trabalho feito rapidamente.
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-5-THANKSTOERRORSYOULEARNANDTEACH.md)
