@@ -7,27 +7,10 @@
 ## Você constrói sistemas para alcançar metas de negócio
 
 
-You and your teams are fully aware that you are
-getting paid to serve your clients and to accomplish
-the mission of your organization. Therefore, you are
-respectful to everyone’s time and resources from
-your organization and clients. Before you commit
-any long-term project, you test drive and validate
-proposed and envisioned business value you expect
-from your IT solution. You show your clients the
-models, prototypes, various A/B variations or
-lightweight versions of what you intend to build.
-Then you measure and record their reactions and
-feedback to understand how you fine-tune your
-product and service, and if your clients like it at all. 
+Você e seus times estão totalmente conscientes que vocês estão sendo pagos para servir seus clientes e para alcançar a missão da sua organização. Sendo assim, vocês são respeitosos com o tempo e recurso de todos da sua organização e clientes. Antes de você assinar qualquer projeto de longo termo, você realiza um *test drive* e valida a proposta e o valor do negócio imaginado que vocês experam da sua solução de TI. VocÊ apresenta para seus clientes os modelos, os protótipos, variações de testes A/B ou leves versões do que você está intencionado a construir. Então você mede e recorda suas reaçes e *feedbacks* para entender como você refina seu produto ou serviço, e se seus clientes gostam.
 
-You don’t add features to your product just because
-you have a good feeling about them. You test your
-ideas and build tangible, demonstrable and
-reproducible evidence that what you are building 
-and investing the resources from your organization
-will most probably add the bottomline and positively
-differentiate your employer from its competitors. 
+
+Você não adiciona funcionalidades ao seu produto só porque você tem um bom sentimento sobre eles. Você testa as suas ideias e constrói evidências tangíveis, demonstrativas e reproduzíveis que você está construindo e investindo recurso da sua organização irá provavelmente adicionar positivamente a diferenciação do seu empregador de seus competidores.  
 
 
 [Próximo]()
