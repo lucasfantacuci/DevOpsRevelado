@@ -6,28 +6,12 @@
 
 ## 3.4 - Você cria com qualidade e monitoramento
 
-You build fast, reliable and amplified feedback loops
-in all stages of your software delivery and operations
-lifecycle. Because quality is not a monopoly which
-belongs to a certain team, everyone strives for builtin
-quality. In order to make sure you have correctly
-done your job, you don’t wait for feedback from
-another team. Or you don’t ask somebody else’s
-permission to deploy your code in production. You
-trust your team with peer reviews of your design,
-code, test and infrastructure. 
 
-You always build test automation and monitoring
-(telemetry) for every possibly measurable and
-testable feature. You are conscious that if a feature
-deserves your time to be coded and delivered, it also
-deserves continuous, reliable, fast and consistent
-testing with test automation. Moreover, it also
-deserves continuous monitoring and built-in
-analytics in your software to validate what you win
-from this feature matches why you built it in the first 
-place. In all environments including production and
-non-production. 
+Você cria ciclos de *feedbacks* amplificados, confiáveis e rápidos em todos os estágios do ciclo de vida da sua entrega e operações de software. Qualidade não é um monopólio no qual pertence a um determinado time, todo mundo se esforça para construir com qualidade. A fim de ter certeza que você tem feito corretamente o seu trabalho, você não pergunta para outra pessoa a permissão para implantar o seu código em produção. Você confia em seu time com *peer reviews* do seu design, cdigo, testes e infraestrutura.
+
+
+Você sempre constrói automatização de testes e monitoramento (telemetria) para todas atividades passíveis de teste e métricas. Você está consciente que se uma funcionalidade merece seu tempo para ser codificada e entregue, ela também merece automatização de testes continuos, confiáveis, ŕápidos e consistentes. Mais além, ela merece monitoramento contínuo e ser construida com sistema de análises em seu *software* para validar se o que você ganha com esta funcionalidade vai de encontro com o porque você construíu antes de outras. Em todos os ambientes incluindo produção e não produção.   
+
 
 Every check-in in your code repository automatically
 adapts, restructures or if necessary rebuilds your
