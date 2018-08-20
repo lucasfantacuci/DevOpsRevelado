@@ -1,8 +1,10 @@
 [Sumário](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/README.md)
 
 
-[Anterior]()
+[Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-1-YOUCONTINUOUSLYDEPLOY.md)
 
+
+## 3.2 - Você organiza seus times ao redor de sua missão
 
 Para servir o seu mercado, como você e a sua organização possuem uma maior missão do que o seus competidores, você organiza o seu departamento de TI com times de longo termos em volta do serviço ao seu cliente (tanto interno ou externo) produtos, serviços, capacidades e microserviços. Ao invés de projetos temporários onde seus times se dissolvem assim que ou até mesmo antes que um projeto termine.
 
