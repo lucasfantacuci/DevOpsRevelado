@@ -7,23 +7,11 @@
 ## Agradeça aos erros você aprende e ensina
 
 
-If an error occurs, you solve it calm and confidently.
-You identify root cause of an incident by relying on
-scientific evidence obtained and observed from your
-automated tests and telemetry. If you identify a
-missing test case or missing telemetry after the
-resolution of the issue, you add them to your code
-repository together with your fix.
+Se um erro ocorre, você o resolve calmamente e confiavelmente. Você identifica a causa raiz de um incidente confiando nas evidências científicas obtidas e observadas dos seus testes automatizados e da sua telemetria. Se você identifica um caso de teste ou uma telemetria faltante após a resolução do problema, você o adiciona ao seu repositório de código juntamente com a sua correção. 
 
 
-In a complex system like yours, no single person can
-know and foresee everything. Therefore, everyone in
-your organization believe that errors are not bad
-surprises, but they are part of maturity process of
-your products and services. Errors are opportunities
-to learn and grow. You and your organization
-conceive errors as a mean of new personal and
-organizational learnings.
+Em um sistema complexo como o seu, nenhuma única pessoa pode saber e prever tudo. Então, todos em sua organização acreditam que erros no são surpresas tão ruins, mas eles são parte de um processo de amadurecimento de seus produtos e serviços. Erros so oportunidades para aprender e crescer. Você e a sua organização concebem erros como significado de um novo aprendizado pessoal e organizacional.  
+
 
 
 Blameless post-mortems of errors will also enable
