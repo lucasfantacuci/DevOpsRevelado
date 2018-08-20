@@ -39,7 +39,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [2 - Quais são seus problemas em TI sem DevOps?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-WHATISYOURPROBLEMSINTIWITHOUTDEVOPS.md)
 - [2.1 - Conflito crônico entre desenvolvimento e operacional](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-1-CHRONICCONFLICTBETWEENDEVELOPMENTANDOPERATIONAL.md)
 - [2.2 - Agora você está em débito técnico](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-2-NOWYOUAREINTECHNICALDEBT.md)
-- [2.3 - Seu negócio lucra do sistema mais frágil](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-3-YOURBUSINESSEARNSFROMMOSTFRAGILESYSTEMS.md)
+- [2.3 - Seu negócio lucra com o sistema mais frágil](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-3-YOURBUSINESSEARNSFROMMOSTFRAGILESYSTEMS.md)
 - [2.4 - Se você quebra promessas você promete mais](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-4-YOUPROMISSEBIGGERIFYOUBREAKONE.md)
 - [2.5 - Você não tem mais diversão no seu trabalho](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-5-YOUHAVENOMOREFUNATWORK.md)
 - [2.6 - Conclusão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-6-CONCLUSION.md)
