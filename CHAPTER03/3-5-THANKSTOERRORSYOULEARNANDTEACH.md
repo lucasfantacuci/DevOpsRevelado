@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-4-YOUCREATEWITHQUALIDADEEMONITORAMENTO.md)
 
 
-## Agradeça aos erros você aprende e ensina
+## 3.5 - Agradeça aos erros você aprende e ensina
 
 
 Se um erro ocorre, você o resolve calmamente e confiavelmente. Você identifica a causa raiz de um incidente confiando nas evidências científicas obtidas e observadas dos seus testes automatizados e da sua telemetria. Se você identifica um caso de teste ou uma telemetria faltante após a resolução do problema, você o adiciona ao seu repositório de código juntamente com a sua correção. 
@@ -19,4 +19,4 @@ Menos acusação após um erro também irá habilitar vocês para ainda melhor i
 Você e seu time nunca são punidos por causa deste erro, mas vocês são premiados devido as liçes que vocês aprenderam e compartilharam após este incidente. Obrigado pela sua contribuição, muitos times em sua organização sabem como evitar tal incidente no futuro. 
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-6-YOURTEAMSSCALEEVENBETTERWHILEYOURBUSINESSGETSBIGGER.md)
