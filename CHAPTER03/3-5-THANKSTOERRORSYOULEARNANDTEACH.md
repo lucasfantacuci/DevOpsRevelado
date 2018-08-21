@@ -10,24 +10,13 @@
 Se um erro ocorre, você o resolve calmamente e confiavelmente. Você identifica a causa raiz de um incidente confiando nas evidências científicas obtidas e observadas dos seus testes automatizados e da sua telemetria. Se você identifica um caso de teste ou uma telemetria faltante após a resolução do problema, você o adiciona ao seu repositório de código juntamente com a sua correção. 
 
 
-Em um sistema complexo como o seu, nenhuma única pessoa pode saber e prever tudo. Então, todos em sua organização acreditam que erros no são surpresas tão ruins, mas eles são parte de um processo de amadurecimento de seus produtos e serviços. Erros so oportunidades para aprender e crescer. Você e a sua organização concebem erros como significado de um novo aprendizado pessoal e organizacional.  
+Em um sistema complexo como o seu, nenhuma única pessoa pode saber e prever tudo. Então, todos em sua organização acreditam que erros não são surpresas tão ruins, mas eles são parte de um processo de amadurecimento de seus produtos e serviços. Erros são oportunidades para aprender e crescer. Você e a sua organização concebem erros como significado de um novo aprendizado pessoal e organizacional.  
 
 
-
-Blameless post-mortems of errors will also enable
-you to even better identify root causes of incidents
-and discover techniques to avoid same and similar
-errors in the future. Thanks to your incident, you
-now convert your local learnings from your team and
-software into organizational memory which will serve
-everyone in your organization. 
+Menos acusação após um erro também irá habilitar vocês para ainda melhor identificar as cauzas raízes de incidentes e descobrir técnicas para evitar erros iguals ou similares no futuro. Agradeça ao seu indicente, agora você converte seu aprendizado local do seu time e *software* para uma memória organizacional que irá servir para todos em sua organização.
 
 
-You and your team are never punished because of
-this error, but you are awarded due to the lessons
-you learnt and shared after this incident. Thanks to
-your contribution, many teams in your organization
-know how to avoid such an incident in the future. 
+Você e seu time nunca são punidos por causa deste erro, mas vocês são premiados devido as liçes que vocês aprenderam e compartilharam após este incidente. Obrigado pela sua contribuição, muitos times em sua organização sabem como evitar tal incidente no futuro. 
 
 
 [Próximo]()
