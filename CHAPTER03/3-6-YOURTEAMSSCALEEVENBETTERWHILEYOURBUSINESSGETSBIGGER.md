@@ -31,4 +31,6 @@ possible. Your organization can be the next one to
 become one of these DevOps High Performers.
 
 
+![Image of Yaktocat](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/asset-01.png)
+
 [Próximo]()
