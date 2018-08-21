@@ -54,6 +54,6 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [3.2 - Você organiza seus times ao redor de sua missão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-2-YOUORGANIZEYOURTEAMSAROUNDYOURMISSION.md)
 - [3.3 - Você constrói sistemas para alcançar metas de negócio](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-3-YOUBUILDSYSTEMSTOACHIEVEBUSINESSGOALS.md)
 - [3.4 - Você cria com qualidade e monitoramento](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-4-YOUCREATEWITHQUALIDADEEMONITORAMENTO.md)
-- [3.5 - Agradeça aos erros você aprende e ensina]()
-- [3.6 - Seus times escalam ainda melhor enquanto seu negócio cresce]()
+- [3.5 - Agradeça aos erros você aprende e ensina](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-5-THANKSTOERRORSYOULEARNANDTEACH.md)
+- [3.6 - Seus times escalam ainda melhor enquanto seu negócio cresce](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-6-YOURTEAMSSCALEEVENBETTERWHILEYOURBUSINESSGETSBIGGER.md)
 - [3.7 - Conclusão]()
