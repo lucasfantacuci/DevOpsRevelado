@@ -63,7 +63,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 
 - [4 - Como você deveria iniciar DevOps em sua organização?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER04/4-HOWSHOULDYOUSTARTDEVOPSINYOURORGANIZATION.md)
 - [4.1 - Você evita o "Big Bang" e começa pequeno](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER04/4-1-YOUAVOIDBIGBANGANDSTARTSMALL.md)
-- [4.2 - Demonstrate Quick and Early Wins]()
+- [4.2 - Demonstrar ganhos rápidos e antecipados]()
 - [4.3 - Identify an Appropriate Greenfield or BrownField Product and Service]()
 - [4.4 - DevOps is for Large Organizations with Lots of Running Legacy Systems too]()
 - [4.5 - Identify an Appropriate System of Records or System of Engagement]()
