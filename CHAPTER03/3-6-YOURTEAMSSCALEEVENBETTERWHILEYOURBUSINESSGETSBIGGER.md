@@ -13,6 +13,6 @@ Agora imagine uma organização mediana que cresce de 1 para 1.000 desenvolvedor
 Entretando, as organizações DevOps de alta performance jogam em uma liga diferente, eles conseguem aumentar a média de implantação de código por dia por desenvolvedor enquanto eles tem mais desenvolvedores. Com o correto software, arquitetura, corretos times, correta missão, correta liderança e correta cultura, as organizações DevOps de alta performance, tais como, Google, Amazon, Facebook, Netflix e Apple já tem provado que isto é possível. Sua organização pode ser a próxima a se tornar uma dessas organizações DevOps de alta performance.
 
 
-![Image of Yaktocat](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/asset-01.png)
+![asset01](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/asset-01.png)
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-7-CONCLUSION.md)
