@@ -4,7 +4,7 @@
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-6-YOURTEAMSSCALEEVENBETTERWHILEYOURBUSINESSGETSBIGGER.md)
 
 
-## Conclusão
+## 3.7 Conclusão
 
 
 Organizações DevOps de alto desempenho competem seus rivais nas seguintes dimensões:
