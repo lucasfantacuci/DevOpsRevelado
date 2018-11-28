@@ -49,7 +49,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 ### Capítulo 03
 
 
-- 3 - Como DevOps resolve seus problemas em TI?
+- [3 - Como DevOps resolve seus problemas em TI?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-1-YOUCONTINUOUSLYDEPLOY.md#3---como-devops-resolve-seus-problemas-em-ti)
 - [3.1 - Você continuamente implanta](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-1-YOUCONTINUOUSLYDEPLOY.md)
 - [3.2 - Você organiza seus times ao redor de sua missão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-2-YOUORGANIZEYOURTEAMSAROUNDYOURMISSION.md)
 - [3.3 - Você constrói sistemas para alcançar metas de negócio](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-3-YOUBUILDSYSTEMSTOACHIEVEBUSINESSGOALS.md)
