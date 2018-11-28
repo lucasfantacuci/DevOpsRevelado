@@ -10,4 +10,4 @@
 A maneira como você inicia sua jornada DevOps em sua organização irá ditar quanto sucesso sua iniciativa DevOps irá ter. Sendo assim, vamos tirar o melhor proveito da sua primeira e provavelmente única chance. 
 
 
-[Próximo]()
+[Próximo](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER04/4-1-YOUAVOIDBIGBANGANDSTARTSMALL.md)
