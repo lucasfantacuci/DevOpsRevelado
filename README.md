@@ -61,7 +61,7 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 ### Capítulo 04
 
 
-- [4 - How Should You Start DevOps In Your Organization?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER04/4-HOWSHOULDYOUSTARTDEVOPSINYOURORGANIZATION.md)
+- [4 - Como você deveria iniciar DevOps em sua organização?](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER04/4-HOWSHOULDYOUSTARTDEVOPSINYOURORGANIZATION.md)
 - [4.1 - You Avoid Big Bang and Start Small]()
 - [4.2 - Demonstrate Quick and Early Wins]()
 - [4.3 - Identify an Appropriate Greenfield or BrownField Product and Service]()
