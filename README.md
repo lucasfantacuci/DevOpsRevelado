@@ -45,7 +45,6 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [2.6 - Conclusão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-6-CONCLUSION.md)
 
 
-
 ### Capítulo 03
 
 
@@ -56,4 +55,17 @@ Caso queira contribuir para a tradução, ou acha que poderia traduzir melhor de
 - [3.4 - Você cria com qualidade e monitoramento](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-4-YOUCREATEWITHQUALIDADEEMONITORAMENTO.md)
 - [3.5 - Agradeça aos erros você aprende e ensina](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-5-THANKSTOERRORSYOULEARNANDTEACH.md)
 - [3.6 - Seus times escalam ainda melhor enquanto seu negócio cresce](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-6-YOURTEAMSSCALEEVENBETTERWHILEYOURBUSINESSGETSBIGGER.md)
-- [3.7 - Conclusão]()
+- [3.7 - Conclusão](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/3-7-CONCLUSION.md)
+
+
+### Capítulo 04
+
+
+- [4 - How Should You Start DevOps In Your Organization?]()
+- [4.1 - You Avoid Big Bang and Start Small]()
+- [4.2 - Demonstrate Quick and Early Wins]()
+- [4.3 - Identify an Appropriate Greenfield or BrownField Product and Service]()
+- [4.4 - DevOps is for Large Organizations with Lots of Running Legacy Systems too]()
+- [4.5 - Identify an Appropriate System of Records or System of Engagement]()
+- [4.6 - Your Recipe to Successful DevOps Transformation]()
+- [4.7 - Conclusão]()
