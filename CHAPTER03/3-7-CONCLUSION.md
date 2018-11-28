@@ -19,6 +19,8 @@ Organizações DevOps de alto desempenho competem seus rivais nas seguintes dime
 - Melhor penetração no mercado, participação de mercado e lucratividade da organização (2 vezes mais chances de realizar).
 - Melhor crescimento da capitalização de mercado.
 
+
 ![asset2](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/asset-02.png)
+
 
 [Próximo]()
