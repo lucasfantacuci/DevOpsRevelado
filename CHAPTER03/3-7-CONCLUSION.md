@@ -7,22 +7,17 @@
 ## Conclusão
 
 
-High Performer DevOps organizations outcompete
-their rivals in following dimensions.
-• 46 times more frequent code deployments.
-• 440 times faster lead time from commit to deploy.
-• 96 times faster mean time to recover from
-downtime.
-• 5 times lower change failure rate (meaning
-changes are 1/5 as likely to fail).
-• Improved productivity and throughput.
-• Improved code and operational reliability.
-• Improved organizational performance and client
-satisfaction.
-• Improved market penetration, market share and
-profitability of organization (2 times more likely to
-accomplish).
-• Improved market capitalisation growth. 
+Organizações DevOps de alto desempenho competem seus rivais nas seguintes dimensões:
+
+- 46x maior, a frequência de implantação de código.
+- 440x mais rápido o lead time de commitar até a implantação.
+- 96x mais rápido para se recuperar do tempo de inatividade.
+- 5x menor a taxa de falha de mudança.
+- Produtividade e taxa de entrega otimizada.
+- Confiabilidade de código e operacional otimizada.
+- Performance organizacional e satisfação do cliente otimizada.
+- Melhor penetração no mercado, participação de mercado e lucratividade da organização (2 vezes mais chances de realizar).
+- Melhor crescimento da capitalização de mercado.
 
 ![asset2](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER03/asset-02.png)
 
