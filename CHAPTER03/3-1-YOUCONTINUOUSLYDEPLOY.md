@@ -3,6 +3,8 @@
 
 [Anterior](https://github.com/lucasfantacuci/DevOpsRevelado/blob/master/CHAPTER02/2-6-CONCLUSION.md)
 
+## 3 - Como DevOps resolve seus problemas em TI?
+
 
 ## 3.1 - Você continuamente implanta
 
