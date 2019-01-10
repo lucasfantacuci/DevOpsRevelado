@@ -10,11 +10,9 @@
 Sua missão é demonstrar ganhos rápidos e antecipados através da sua iniciativa DevOps e provar para céticos e pessimistas que com DevOps voce resolve os problemas e você cria valor. E então você irá passo a passo replicar essas otimizações em outras áreas da sua organização.
 
 
-É assim que um fabricante líder de ERP, CRM e SaaS da Alemanha definiu sua jornada DevOps. Seu time de manutenção estava realizando uma única entrega por ano no qual estava rapidamente resultando em uma acumulação de 
-Their maintenance team was doing one
-single delivery per year which was quickly resulting in
-an accumulation of non-released code in various
-different incident code branches. This made for them
+É assim que um fabricante líder de ERP, CRM e SaaS da Alemanha definiu sua jornada DevOps. Seu time de manutenção estava realizando uma única entrega por ano no qual estava rapidamente resultando em uma acumulação de código não liberado se incidindo em diversos branchs.
+
+This made for them
 extremely difficult to merge their code and to release
 fully tested and reliable maintenance releases.
 Their maintenance development team was first
