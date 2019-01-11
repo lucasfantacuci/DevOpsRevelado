@@ -12,9 +12,8 @@ Sua missão é demonstrar ganhos rápidos e antecipados através da sua iniciati
 
 É assim que um fabricante líder de ERP, CRM e SaaS da Alemanha definiu sua jornada DevOps. Seu time de manutenção estava realizando uma única entrega por ano no qual estava rapidamente resultando em uma acumulação de código não liberado se incidindo em diversos branchs.
 
-This made for them
-extremely difficult to merge their code and to release
-fully tested and reliable maintenance releases.
+Isto faz com que eles seja extremamente difícil para realizar o merge do seu código para a versão de release totalmente testado e confiável.
+
 Their maintenance development team was first
 combined with maintenance delivery planning,
 quality assurance and operational environments
